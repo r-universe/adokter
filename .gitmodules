@@ -8,3 +8,8 @@
 	url = https://github.com/adokter/biorad
 	shallow = true
 	registered = true
+[submodule "vol2birdR"]
+	path = vol2birdR
+	url = https://github.com/adokter/vol2birdR
+	shallow = true
+	registered = false
