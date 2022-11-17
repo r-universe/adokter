@@ -2,5 +2,9 @@
   {
     "package": "bioRad",
     "oncran": true
+  },
+  {
+    "package": "vol2birdR",
+    "oncran": true
   }
 ]
