@@ -10,6 +10,6 @@
 	registered = true
 [submodule "vol2birdR"]
 	path = vol2birdR
-	url = https://github.com/adokter/vol2birdr
+	url = https://github.com/adokter/vol2birdR
 	shallow = true
-	registered = true
+	registered = false
