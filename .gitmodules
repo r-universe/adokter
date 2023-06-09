@@ -13,3 +13,8 @@
 	url = https://github.com/adokter/vol2birdr
 	shallow = true
 	registered = true
+[submodule "suntools"]
+	path = suntools
+	url = https://github.com/adokter/suntools
+	shallow = true
+	registered = false
