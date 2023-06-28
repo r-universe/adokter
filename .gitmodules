@@ -1,20 +1,14 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/adokter/biorad
-	shallow = true
-	registered = true
 [submodule "vol2birdR"]
 	path = vol2birdR
 	url = https://github.com/adokter/vol2birdr
-	shallow = true
-	registered = true
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/adokter/suntools
-	shallow = true
 	registered = false
