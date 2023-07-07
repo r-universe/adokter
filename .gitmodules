@@ -5,10 +5,9 @@
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/adokter/biorad
-[submodule "vol2birdR"]
-	path = vol2birdR
-	url = https://github.com/adokter/vol2birdr
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/adokter/suntools
-	registered = false
+[submodule "vol2birdR"]
+	path = vol2birdR
+	url = https://github.com/adokter/vol2birdr
